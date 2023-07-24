@@ -1,5 +1,6 @@
 pub mod app;
 pub(crate) mod screens;
+pub(crate) mod components;
 
 use cfg_if::cfg_if;
 

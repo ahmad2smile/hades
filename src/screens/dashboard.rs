@@ -1,5 +1,5 @@
 use leptos::*;
-use leptos::ev::{Event, KeyboardEvent};
+use leptos::ev::KeyboardEvent;
 
 /// Renders the home page of your application.
 #[component]
